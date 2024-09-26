@@ -1,0 +1,12 @@
+<html>
+    <body>
+        <span id="birthdate"></span>
+    </body>
+</html>
+<script>
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const birthdate = urlParams.get('sharingHash');
+  const pdflink = urlParams.get('pdflink');
+  document.getElementById("sharingHash").innerHTML = birthdate;
+</script>
