@@ -1,5 +1,15 @@
 {
-	"webcredentials": {
-		"apps": ["X86NQK83T7.com.notissimus.VseInstrumenti.iPhone"]
-	}
+  "webcredentials": {
+    "apps": [
+      "X86NQK83T7.com.notissimus.VseInstrumenti.iPhone"
+    ]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "X86NQK83T7.com.notissimus.VseInstrumenti.iPhone"
+      }
+    ]
+  }
 }
