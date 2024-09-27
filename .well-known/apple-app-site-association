@@ -5,10 +5,11 @@
     ]
   },
   "applinks": {
-    "apps": ["X86NQK83T7.com.notissimus.VseInstrumenti.iPhone"],
     "details": [
       {
-        "appID": "X86NQK83T7.com.notissimus.VseInstrumenti.iPhone",
+        "appIDs": [
+          "X86NQK83T7.com.notissimus.VseInstrumenti.iPhone"
+        ],
         "components": [
           {
             "/": "*"
