@@ -7,7 +7,7 @@
         ],
         "components": [
           {
-            "/": "/cart/*",
+            "/": "/cart/",
             "?": {
               "sharingHash": "*"
             }
