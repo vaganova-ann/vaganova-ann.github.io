@@ -1,10 +1,15 @@
 {
   "applinks": {
-    "apps": [],
     "details": [
       {
-        "appID": "X86NQK83T7.com.notissimus.VseInstrumenti.iPhone",
-        "paths": ["*"]
+        "appIDs": [
+          "X86NQK83T7.com.notissimus.VseInstrumenti.iPhone"
+        ],
+        "components": [
+          {
+            "/": "/cart/*"
+          }
+        ]
       }
     ]
   }
