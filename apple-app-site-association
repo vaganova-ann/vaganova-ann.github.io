@@ -9,7 +9,7 @@
           {
             "/": "/cart/",
             "?": {
-              "sharingHash": "???"
+              "sharingHash": "?*"
             }
           }
         ]
